@@ -1,0 +1,18 @@
+{
+  "name": "uises",
+  "version": "1.0.0",
+  "description": "Uises autoTrader",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "Jack",
+  "license": "MIT",
+  "dependencies": {
+    "cookies": "^0.5.1",
+    "jar": "^0.3.4",
+    "q": "^1.4.1",
+    "request": "^2.65.0"
+  }
+}
